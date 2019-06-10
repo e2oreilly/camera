@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107892145543",
+    "firebase_url": "https://camerajuice-cf13f.firebaseio.com",
+    "project_id": "camerajuice-cf13f",
+    "storage_bucket": "camerajuice-cf13f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107892145543:android:0f36cd9fa4b7dd6e",
+        "android_client_info": {
+          "package_name": "com.example.camerajuice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107892145543-9uqgo2majc7tl1lsf8n7jh98sqancpkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyL4Kpc4kMjQR5QixyUmafZoq9AtBnj2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107892145543-9uqgo2majc7tl1lsf8n7jh98sqancpkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
